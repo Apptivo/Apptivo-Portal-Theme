@@ -1,0 +1,29 @@
+{
+  "name": "apptivo-portal",
+  "version": "1.0.0",
+  "homepage": "http://www.apptivo.com",
+  "authors": [
+    "Apptivo dev team <support@apptivo.com>"
+  ],
+  "description": "A simple theme to run a customer portal with Apptivo ticketing.  Must have the Apptivo Customer Portal plugin installed.  A modified version of Chris Barne's wp-bootstrap theme.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bootstrap",
+    "WordPress"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizer": "~2.8.2",
+    "font-awesome": "~4.2.0",
+    "bootstrap": "~3.3.1"
+  }
+}
